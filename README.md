@@ -3,7 +3,7 @@
 🌱 **Desenvolvedor Júnior | Backend & Microsserviços**
 🇧🇷 Brasil
 
-Estou no **9º semestre de Engenharia da Computação ** e no início da minha jornada na área de desenvolvimento, aprendendo todos os dias e construindo conhecimento prático com as tecnologias que uso.
+Estou no **9º semestre de Engenharia da Computação** e no início da minha jornada na área de desenvolvimento, aprendendo todos os dias e construindo conhecimento prático com as tecnologias que uso.
 Tenho foco em **backend, APIs e arquitetura de microsserviços**, sempre buscando evoluir e aprender coisas novas.
 
 ---
