@@ -1,9 +1,9 @@
-# Olá 👋, eu sou o Guilherme Massayuki
+# Olá , eu sou o Guilherme Massayuki
 
 🌱 **Desenvolvedor Júnior | Backend & Microsserviços**
 🇧🇷 Brasil
 
-Estou no início da minha jornada na área de desenvolvimento, aprendendo todos os dias e construindo conhecimento prático com as tecnologias que uso.
+Estou no **9º semestre de Engenharia da Computação ** e no início da minha jornada na área de desenvolvimento, aprendendo todos os dias e construindo conhecimento prático com as tecnologias que uso.
 Tenho foco em **backend, APIs e arquitetura de microsserviços**, sempre buscando evoluir e aprender coisas novas.
 
 ---
@@ -67,21 +67,6 @@ Tenho foco em **backend, APIs e arquitetura de microsserviços**, sempre buscand
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Massayuki2213&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Massayuki2213&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Filosofia
-
-> _"Cada dia é uma oportunidade para aprender algo novo e me tornar um desenvolvedor melhor."_
 
 ---
 
