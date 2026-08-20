@@ -50,7 +50,7 @@ Pesquisa aplicada (TCC, aprovada em banca em jun/2026): o mesmo Prontuário Elet
 - **Validação estatística** — ANOVA e teste Tukey HSD para comprovar a significância das diferenças, em vez de comparar médias no olho.
 - **LGPD desde o schema** — AES-256, hash SHA-256 de CPF, metadados de consentimento e logs de auditoria append-only.
 
-➡️ **(https://github.com/leorossiio/tcc-pep-backend-monolito)**
+➡️ **https://github.com/leorossiio/tcc-pep-backend-monolito**
 
 ---
 
