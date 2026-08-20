@@ -34,7 +34,7 @@ Mercados, feirantes e restaurantes montam pedidos pelo celular a partir de um ca
 - **Domínio modelado com cuidado** — máquina de estados do pedido com histórico, preço em cascata (cliente → loja → geral), quantidades fracionadas (1,5 kg).
 - **Operação** — Actuator/Prometheus, logs JSON em produção, Sentry, CI no GitHub Actions e testes de integração com Testcontainers.
 
-➡️ **[Ver repositório](LINK_DO_REPO)**
+➡️ **[https://github.com/Massayuki2213/central-pedidos](https://github.com/Massayuki2213/central-pedidos)**
 
 ---
 
@@ -50,7 +50,7 @@ Pesquisa aplicada (TCC, aprovada em banca em jun/2026): o mesmo Prontuário Elet
 - **Validação estatística** — ANOVA e teste Tukey HSD para comprovar a significância das diferenças, em vez de comparar médias no olho.
 - **LGPD desde o schema** — AES-256, hash SHA-256 de CPF, metadados de consentimento e logs de auditoria append-only.
 
-➡️ **[Ver repositório](LINK_DO_REPO)**
+➡️ **(https://github.com/leorossiio/tcc-pep-backend-monolito)**
 
 ---
 
