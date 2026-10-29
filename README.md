@@ -4,7 +4,7 @@
 
 Construo backend que roda em operação real. Hoje sou Líder de TI numa distribuidora de hortifrúti, onde desenvolvi uma plataforma B2B de pedidos integrada ao ERP legado da empresa. Em paralelo, minha pesquisa de TCC compara performance de arquiteturas monolíticas e de microsserviços sob carga, com validação estatística.
 
-9º semestre de Engenharia de Computação — Centro Universitário FACENS.
+10º semestre de Engenharia de Computação — Centro Universitário FACENS.
 
 <p align="left">
   <a href="https://linkedin.com/in/guilherme-massayuki">
